@@ -17,7 +17,7 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 - [Tutoriels Rhino et GrassHopper](https://class.textile-academy.org/tutorials/)
 
 ## Moulage en carton
-
+*Expérimentations sur le carton moulé d'après la vidéo de [XYZ Aidan](https://www.youtube.com/watch?v=0ItPfhx3ulw). Ce processus permettrait de donner une seconde vie aux cartons et papiers, les transformant alors en objets solides et potentiellement compostables.*
 
 ### 1. Phase de test avec cube terrain
 
@@ -25,7 +25,8 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 
 
 ![schéma pour cube terrain](img/schéma-de-fonctionnement.png)
-*Schéma des différents éléments nécessaires pour réaliser le cube terrain*
+
+*Schéma des différents éléments du moule pour réaliser le cube terrain*
 
 ---
 
