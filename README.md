@@ -13,7 +13,8 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 
 #### Impression 3D
 
-![Schéma des différents éléments requis pour faire le cube terrain]()
+![schéma pour cube terrain](Schéma de fonctionnement.png)
+
 
 |  | Base | Mur | Presse |
 | --- | --- | --- | --- |
@@ -26,4 +27,6 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 
 
 ![impression du cube terrain](img/20210615_112515.jpg)
+
+
 
