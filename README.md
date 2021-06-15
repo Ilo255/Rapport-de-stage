@@ -2,13 +2,23 @@
 Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/2021.
 
 ## Liens utiles
-- [Synthaxe markdown](https://www.markdownguide.org/cheat-sheet)
+#### Pour les projets du stage
 - [Tuto vidéo moulage carton de XYZ Aidan](https://www.youtube.com/watch?v=0ItPfhx3ulw)
 - [Moules du cube terrain](https://www.thingiverse.com/thing:3912997)
 - [Instructions pour réaliser le cube terrain](https://www.instructables.com/Recycle-Cardboard-Into-Anything-With-3D-Printing/)
 
+#### Pour la curiosité
+- [Synthaxe Markdown](https://www.markdownguide.org/cheat-sheet)
+- [Formation multidisciplinaire sur les nouvelles formes de fabrication et de design distribué appliqué à l'industrie textile](https://textile-academy.org/)
+- [Fabricademy: cours en ligne](https://vimeo.com/showcase/7626171)
+- [Recette bio-matériaux](https://drive.google.com/file/d/1Lm147nvWkxxmPf5Oh2wU5a8eonpqHCVc/view)
+- [FabTextiles](http://fabtextiles.org/)
+- [Entre sciences, technologie et arts... Waag](https://waag.org/)
+- [Tutoriels Rhino et GrassHopper](https://class.textile-academy.org/tutorials/)
 
 ## Moulage en carton
+
+
 ### 1. Phase de test avec cube terrain
 
 #### Impression 3D
