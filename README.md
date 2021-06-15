@@ -43,7 +43,7 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 ![impression du cube terrain](img/20210615_112515.jpg)
 *Résultat de l'impression 3D*
 
-#### Préparation de la pâte et moulage
+#### Préparation de la pâte et moulage 
 
 
 
