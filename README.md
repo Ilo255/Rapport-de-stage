@@ -10,8 +10,10 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 
 ## Moulage en carton
 ### 1. Phase de test avec cube terrain
-            
-![impression du cube terrain](img/20210615_112515.jpg)
+
+#### Impression 3D
+
+![Schéma des différents éléments requis pour faire le cube terrain]()
 
 |  | Base | Mur | Presse |
 | --- | --- | --- | --- |
@@ -20,8 +22,8 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 | **Premières couches** | 2-3 | 2 | 2-3|
 | **Ceiling Layers** | 3-4 | 2 | 3-4|
 
-*Paramètres impression 3D sur logiciel PrusaSlicer*
+*Paramètres impression 3D sur logiciel [PrusaSlicer](https://www.prusa3d.com/prusaslicer/)*
 
 
-
+![impression du cube terrain](img/20210615_112515.jpg)
 
