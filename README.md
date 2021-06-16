@@ -15,6 +15,8 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 - [FabTextiles](http://fabtextiles.org/)
 - [Entre sciences, technologie et arts... Waag](https://waag.org/)
 - [Tutoriels Rhino et GrassHopper](https://class.textile-academy.org/tutorials/)
+- [Créations à partir de déchets plastiques](https://preciousplastic.com/index.html)
+- 
 
 ---
 
