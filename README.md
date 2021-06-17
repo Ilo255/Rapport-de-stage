@@ -54,10 +54,28 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 
 *Paramètres impression 3D sur logiciel [PrusaSlicer](https://www.prusa3d.com/prusaslicer/)*
 
-![impression du cube terrain](img/20210615_112515.jpg)
+![cube-terrain-imprimé](img/cube-terrain-imprimé.jpg)
 *Résultat de l'impression 3D*
 
 #### Préparation de la pâte et moulage 
+
+*Découpage de **boîtes d'oeufs** et de **cartons** que l'on mixe avec de l'**eau** et une **cuillère de riz bouilli**. On cherche à créer une **pâte** afin de la presser dans le moule "cube terrain" qui a été imprimé.*
+
+![découpage](img/découpage.JPG)
+
+![mixture](img/mixture.JPG)
+
+*Il est important de bien se débarasser de l'eau en essorant la pâte après l'avoir mixée. En effet, l'eau est nécessaire dans cette mixture car elle permet de rompre les fibres de cellulose qui donnent leurs formes aux cartons. Ainsi, si on ne se débarasse pas de l'eau, le carton ne reprendre jamais une forme vraiment solide.*
+
+*Enfin, on assemble la base et les murs dans lesquels on verse la pâte à carton. On ajoute ensuite la presse afin de comprimer la pulpe pour lui donner une nouvelle forme et faire s'échapper l'excédent d'eau.*
+
+[danslapresse](img/dans-la-presse.jpg)
+
+***Problème*** : Le séchage n'est pas très rapide. 
+***Solution*** : Retournement du moule afin de laisser mieux l'eau couler hors du moule et séchage au soleil.
+
+[au-soleil](img/au-soleil.jpg)
+
 
 
 
