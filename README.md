@@ -127,14 +127,6 @@ On imprime finalement les trois parties du moule
 
 ## Reproduction du logo des FabLab: design paramétrique
 
-
-
-
-
-
-
-
-
-
+![LogoFabLab](img/Fab_Lab_logo.svg.png)
 
 
