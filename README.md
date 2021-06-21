@@ -161,6 +161,7 @@ Tout comme pour le cube terrain, le bol est assez **facile à démouler** mais i
 /SCHEMA POUR COMPRENDRE LE LOGO/
 On commence d'abord par **analyser** et **comprendre** cette forme. On distingue alors **trois cylindres**, **trois pavés** et **un cube**.
 
+
 /FINAL/
 
 
