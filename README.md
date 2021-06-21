@@ -106,25 +106,33 @@ On modélise un contenant pour créer un moule en plusieurs parties afin de faci
 ![avec-bords](img/avec-bord.png)
 
 On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s'il n'y a pas de problèmes avant d'imprimer en taille réelle.
-![modele-reduit](img/20210617_153058 (1).jpg)
+
+![modele-reduit](img/modele-reduit.jpg)
+
 ![ecard](img/droite-gauche.png)
 *Ecard qui fait bouger la partie supérieure du moule*
+
 ![picot-droit](img/picots.png)
 
 ***Problèmes***: Comme les picôts sont très droits, il est difficile d'assembler la base et les murs. De plus, il y a un trop gros écard entre le diamètre intérieur de la presse et celui des murs: ainsi, le couvercle n'est pas vraiment attaché et bouge beaucoup.
 
 ***Solutions***: On arrondie les picôts et on en ajoute pour mieux fixer la presse avec les murs.
 
-/VERSION FINALE/
+![arrondi](img/arrondi.png)
 
-On imprime finalement les trois parties du moule
+On imprime finalement les trois parties du moule.
+
+![gros-moule](img/moulev1.jpg)
+| Base | Murs | Presse |
+| --- | --- | --- |
+| ![base](img/socle.jpg) | ![murs](img/mur.jpg) | ![presse](img/presse.jpg) |
 
 ***Problème***: En essayant d'assembler la presse et les murs, on observe un jeu trop important entre les picôts et leur place emboîtée dans les mur.
 
 ***Solutions***: Création de petites bagues afin de combler cet écard.
 
-/DIFFERENTES BAGUES/
-*On teste trois différents types de bagues avec des dimensions différentes pour trouver la meilleure. On imprime ensuite celle qui fonctionne le mieux*
+![bagues](img/mesures-bagues.png)
+On teste trois différents types de bagues avec des dimensions différentes pour trouver la meilleure. On imprime ensuite celle qui fonctionne le mieux (celle du milieu).
 
 /BAGUE DANS TROUS/
 *Après avoir limé certaines des bagues, on les enfonce dans les renfoncements de la base.*
