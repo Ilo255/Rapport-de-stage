@@ -69,12 +69,12 @@ Il est important de bien se débarasser de l'eau en essorant la pâte après l'a
 
 Enfin, on assemble la base et les murs dans lesquels on verse la pâte à carton. On ajoute ensuite la presse afin de comprimer la pulpe pour lui donner une nouvelle forme et faire s'échapper l'excédent d'eau.
 
-[danslapresse](img/dans-la-presse.jpg)
+![danslapresse](img/dans-la-presse.jpg)
 
 ***Problème*** : Le séchage n'est pas très rapide. 
 ***Solution*** : Retournement du moule afin de laisser mieux l'eau couler hors du moule et séchage au soleil.
 
-[au-soleil](img/au-soleil.jpg)
+![au-soleil](img/au-soleil.jpg)
 
 #### Démoulage et résultat final
 
@@ -84,7 +84,7 @@ Enfin, on assemble la base et les murs dans lesquels on verse la pâte à carton
 
 Suite à cette première phase de test, on créé un autre contenant. Il est important de bien penser son extraction ainsi que sa création sur l'imprimante 3D.
 
-[contenant-final](models/contenant-final.stl)
+![contenant-final](models/contenant-final.stl)
 
 On modélise un contenant pour créer un moule en plusieurs parties afin de faciliter la future extraction de l'objet.
 
