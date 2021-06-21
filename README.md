@@ -95,17 +95,17 @@ Suite à cette première phase de test, on imagine notre propre objet. Son conce
 
 ---
 
-On modélise un contenant pour créer un moule en plusieurs parties afin de faciliter la future extraction de l'objet.
+On modélise un contenant pour créer un moule en plusieurs parties afin de **faciliter la future extraction** de l'objet.
 
 ![sans-bords](img/essai1.png)
 
-***Problème***: Comment séparer les morceaux du moule sans le casser?
+***Problème***: Comment **séparer les morceaux du moule** sans le **casser**?
 
-***Solution***: Ajouter des bords afin de permettre une bonne prise.
+***Solution***: Ajouter des **bords** afin de permettre une bonne prise.
 
 ![avec-bords](img/avec-bord.png)
 
-On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s'il n'y a pas de problèmes avant d'imprimer en taille réelle.
+On imprime ensuite un **modèle réduit** du moule final. Cela permet de vérifier s'il n'y a pas de problèmes **avant d'imprimer en taille réelle**.
 
 ![modele-reduit](img/modele-reduit.jpg)
 
@@ -114,9 +114,9 @@ On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s
 
 ![picot-droit](img/picots.png)
 
-***Problèmes***: Comme les picôts sont très droits, il est difficile d'assembler la base et les murs. De plus, il y a un trop gros écard entre le diamètre intérieur de la presse et celui des murs: ainsi, le couvercle n'est pas vraiment attaché et bouge beaucoup.
+***Problèmes***: Comme les picôts sont très **droits**, il est **difficile d'assembler la base et les murs**. De plus, il y a un trop gros **écard** entre le **diamètre intérieur de la presse et celui des murs**: ainsi, le **couvercle** n'est pas vraiment attaché et **bouge beaucoup**.
 
-***Solutions***: On arrondie les picôts et on en ajoute pour mieux fixer la presse avec les murs.
+***Solutions***: On **arrondie** les picôts et on en **ajoute** pour mieux fixer la presse avec les murs.
 
 ![arrondi](img/arrondi.png)
 
@@ -127,9 +127,9 @@ On imprime finalement les trois parties du moule.
 | --- | --- | --- |
 | ![base](img/socle.jpg) | ![murs](img/mur.jpg) | ![presse](img/presse.jpg) |
 
-***Problème***: En essayant d'assembler la presse et les murs, on observe un jeu trop important entre les picôts et leur place emboîtée dans les mur.
+***Problème***: En essayant d'assembler la presse et les murs, on observe un **jeu trop important** entre les picôts et leur place emboîtée dans les mur.
 
-***Solutions***: Création de petites bagues afin de combler cet écard.
+***Solutions***: Création de petites **bagues** afin de **combler cet écard**.
 
 ![bagues](img/mesures-bagues.png)
 On teste trois différents types de bagues avec des dimensions différentes pour trouver la meilleure. On imprime ensuite celle qui fonctionne le mieux (celle du milieu).
@@ -137,24 +137,34 @@ On teste trois différents types de bagues avec des dimensions différentes pour
 ![limer](img/limer.png)
 ![bague-ajout](img/avec-sans-bagues.png)
 
-Après avoir limé certaines des bagues, on les enfonce dans les renfoncements de la base.
+Après avoir **limé** certaines des bagues, on les enfonce dans les trous de la base.
 
 ![bague-sur-picot](img/bagues-picot.jpg)
-Cependant, lorsqu'on essaye d'assembler le socle au mur, les bagues sortent des trous et se coincent autour des picots. Ainsi, pour ne pas lutter inutilement, on déplace chacune des bagues autour de son picôt.
+Cependant, lorsqu'on essaye d'assembler le socle au mur, les bagues **sortent des trous** et **se coincent autour des picots**. Ainsi, pour ne pas lutter inutilement, on **déplace chacune des bagues autour de son picôt**.
 
 ![casse](img/accident.jpg)
-*L'assemblage est désormais facile entre la base et les murs mais lorsqu'on les sépare l'un de l'autre, il y a une certaine résistance. En essayant de les séparer, un plôt s'est même brisé dans son trou. Ainsi, pour éviter ce genre d'accident, on ponce à nouveau l'extérieur des picôts.*
+L'assemblage est désormais **facile** entre la base et les murs mais lorsqu'on les sépare l'un de l'autre, il y a une certaine **résistance**. En essayant de les séparer, un plôt s'est même **brisé** dans son trou. Ainsi, pour éviter ce genre d'accident, on **ponce* à nouveau **l'extérieur des picôts**.
 
 #### Préparation de la pâte et moulage
 
-On reproduit la même technique pour faire de la pâte à carton, à la différence que l'on ajoute deux fois plus d'eau afin de rendre la pâte encore plus homogène.
+On reproduit la même technique pour faire de la pâte à carton, à la différence que l'on ajoute **deux fois plus d'eau** afin de rendre la pâte encore plus **homogène**.
 
 #### Démoulage et version finale
 
-Tout comme pour le cube terrain, le bol est assez facile à démouler mais il semble un peu plus fragile, probablement à cause des bords qui sont assez fins.
+Tout comme pour le cube terrain, le bol est assez **facile à démouler** mais il semble un peu **plus fragile**, probablement à cause des bords qui sont assez **fins**.
 
 ## Reproduction du logo des FabLab: design paramétrique
+*Introdution au design paramétrique en reproduisant le logo des FabLab avec l'outil [GrassHopper](https://www.grasshopper3d.com/). Le design paramétrique permet de modifier rapidement les paramètres d'une modélisation 3D. Ici, l'objectif est d'avoir une structure qui peut changer de taille tout en gardant ses composants en place.*
 
 ![LogoFabLab](img/Fab_Lab_logo.svg.png)
+
+/SCHEMA POUR COMPRENDRE LE LOGO/
+On commence d'abord par **analyser** et **comprendre** cette forme. On distingue alors **trois cylindres**, **trois pavés** et **un cube**.
+
+/FINAL/
+
+
+
+
 
 
