@@ -93,20 +93,26 @@ Suite à cette première phase de test, on imagine notre propre objet. Son conce
 ![render-bol](img/render-bol.png)
 ![render-bol-verso](img/render-bol-verso.png)
 
+---
+
 On modélise un contenant pour créer un moule en plusieurs parties afin de faciliter la future extraction de l'objet.
 
-/VERSION 1 MOULE/
+![sans-bords](img/essai1.png)
 
 ***Problème***: Comment séparer les morceaux du moule sans le casser?
+
 ***Solution***: Ajouter des bords afin de permettre une bonne prise.
 
-/VERSION 2 MOULE AVEC BORDS/
+![avec-bords](img/avec-bord.png)
 
-On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s'il n'y a pas de problèmes avant d'imprimer en taille réelle
-
-/VERSION MINI AVEC ECARD/
+On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s'il n'y a pas de problèmes avant d'imprimer en taille réelle.
+![modele-reduit](img/20210617_153058 (1).jpg)
+![ecard](img/droite-gauche.png)
+*Ecard qui fait bouger la partie supérieure du moule*
+![picot-droit](img/picots.png)
 
 ***Problèmes***: Comme les picôts sont très droits, il est difficile d'assembler la base et les murs. De plus, il y a un trop gros écard entre le diamètre intérieur de la presse et celui des murs: ainsi, le couvercle n'est pas vraiment attaché et bouge beaucoup.
+
 ***Solutions***: On arrondie les picôts et on en ajoute pour mieux fixer la presse avec les murs.
 
 /VERSION FINALE/
@@ -114,6 +120,7 @@ On imprime ensuite un modèle réduit du moule final. Cela permet de vérifier s
 On imprime finalement les trois parties du moule
 
 ***Problème***: En essayant d'assembler la presse et les murs, on observe un jeu trop important entre les picôts et leur place emboîtée dans les mur.
+
 ***Solutions***: Création de petites bagues afin de combler cet écard.
 
 /DIFFERENTES BAGUES/
