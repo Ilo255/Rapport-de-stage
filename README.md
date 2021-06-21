@@ -134,18 +134,24 @@ On imprime finalement les trois parties du moule.
 ![bagues](img/mesures-bagues.png)
 On teste trois différents types de bagues avec des dimensions différentes pour trouver la meilleure. On imprime ensuite celle qui fonctionne le mieux (celle du milieu).
 
-/BAGUE DANS TROUS/
-*Après avoir limé certaines des bagues, on les enfonce dans les renfoncements de la base.*
+![limer](img/limer.png)
+![bague-ajout](img/avec-sans-bagues.png)
 
-/BAGUE SUR PICOT/
-*Cependant, lorsqu'on essaye d'assembler le socle au mur, les bagues sortent des trous et se coincent autour des picots. Ainsi, pour ne pas lutter inutilement, on déplace chacune des bagues autour de son picôt.*
+Après avoir limé certaines des bagues, on les enfonce dans les renfoncements de la base.
 
-/ACCIDENT/
+![bague-sur-picot](img/bagues-picot.jpg)
+Cependant, lorsqu'on essaye d'assembler le socle au mur, les bagues sortent des trous et se coincent autour des picots. Ainsi, pour ne pas lutter inutilement, on déplace chacune des bagues autour de son picôt.
+
+![casse](img/accident.jpg)
 *L'assemblage est désormais facile entre la base et les murs mais lorsqu'on les sépare l'un de l'autre, il y a une certaine résistance. En essayant de les séparer, un plôt s'est même brisé dans son trou. Ainsi, pour éviter ce genre d'accident, on ponce à nouveau l'extérieur des picôts.*
 
 #### Préparation de la pâte et moulage
 
+On reproduit la même technique pour faire de la pâte à carton, à la différence que l'on ajoute deux fois plus d'eau afin de rendre la pâte encore plus homogène.
+
 #### Démoulage et version finale
+
+Tout comme pour le cube terrain, le bol est assez facile à démouler mais il semble un peu plus fragile, probablement à cause des bords qui sont assez fins.
 
 ## Reproduction du logo des FabLab: design paramétrique
 
