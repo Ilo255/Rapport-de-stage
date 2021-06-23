@@ -6,19 +6,27 @@ Chez [Love Open Design](https://love-open-design.com/) du 14/06/2021 au 25/06/20
 - [Tuto vidéo moulage carton de XYZ Aidan](https://www.youtube.com/watch?v=0ItPfhx3ulw)
 - [Moules du cube terrain](https://www.thingiverse.com/thing:3912997)
 - [Instructions pour réaliser le cube terrain](https://www.instructables.com/Recycle-Cardboard-Into-Anything-With-3D-Printing/)
+- [Extraction amidon dans les pommes de terre](https://www.youtube.com/watch?v=G3Xb1-Set8c)
+- [Introduction à GrassHopper](https://vimeo.com/475597078)
+- [Faire des motifs sur GrassHopper](https://vimeo.com/299433240)
 
-##### Entre technologie et société
-- [Entre sciences, technologie et arts... Waag](https://waag.org/)
+##### Entre technologie, art et société
+- [Waag](https://waag.org/)
 - [E-nable](https://e-nable.fr/)
 - [HumanLab](https://myhumankit.org/) 
 - [Nervous System](https://n-e-r-v-o-u-s.com/index.php)
+- [Generative Hut](https://www.generativehut.com/)
 
-##### Découvrir de nouvelles manières de travailler
+##### Découvrir de nouvelles manières inspirantes de travailler
 - [Synthaxe Markdown](https://www.markdownguide.org/cheat-sheet)
 - [Formation multidisciplinaire sur les nouvelles formes de fabrication et de design distribué appliqué à l'industrie textile](https://textile-academy.org/)
 - [Fabricademy: cours en ligne](https://vimeo.com/showcase/7626171)
 - [Tutoriels Rhino et GrassHopper](https://class.textile-academy.org/tutorials/)
 - [Design paramétrique avec Tylko, étagères sur-mesure](https://tylko.com/fr/)
+- [Threejs](https://threejs.org/)
+- [Les meilleurs web design](https://www.awwwards.com/)
+- [Portfolio Richard Mattka](https://richardmattka.com/)
+- [Portfolio Bruno Simon](https://bruno-simon.com/)
 
 ##### Matériaux
 - [Recette bio-matériaux](https://drive.google.com/file/d/1Lm147nvWkxxmPf5Oh2wU5a8eonpqHCVc/view)
