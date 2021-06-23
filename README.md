@@ -92,7 +92,7 @@ Grâce à la **rétractation** de l'objet, le **démoulage est assez facile**. L
 
 ***Piste***: Chercher un moyen de faire s'évacuer davantage d'eau.
 
-### 2. Phase d'expérimentation
+### 2. Phase d'expérimentation 1.0
 
 #### Modélisation et impression 3D du moule
 
@@ -157,9 +157,31 @@ L'assemblage est désormais **facile** entre la base et les murs mais lorsqu'on 
 
 On reproduit la même technique pour faire de la pâte à carton, à la différence que l'on ajoute **deux fois plus d'eau** afin de rendre la pâte encore plus **homogène**.
 
-#### Démoulage et version finale
+#### Démoulage et résultat final
 
-Tout comme pour le cube terrain, le bol est assez **facile à démouler** mais il semble un peu **plus fragile**, probablement à cause des bords qui sont assez **fins**.
+Tout comme pour le cube terrain, le bol est assez **facile à démouler** mais il semble un peu **plus fragile**, probablement à cause des bords qui sont assez **fins**. Il dégage également une mauvaise odeur car il n'a pas sécher assez vite et le riz a du moisir. 
+
+### 3. Phase d'expérimentation 1.1
+
+*En réutilisant le même moule, on cherche à changer la composition de la pâte à carton pour éviter les moisissures et lui chercher une autre apparence. Contrairement à la première phase d'éxpérimentation, on extrait ici de l'amidon de pomme de terre en s'inspirant de la vidéo de [JuliRom VDM](https://www.youtube.com/watch?v=G3Xb1-Set8c)*
+
+#### Préparation de la pâte et moulage
+
+![patate-eau](img/patate-eau.jpg)
+Tout d'abord, au lieu d'utiliser du riz bouillie, on essaye de récupérer l'amidon de pommes de terre crues. Pour cela, on commence par découper cinq pommes de terres de taille moyenne après les avoir épluchées. 
+
+![eau-minéralisée](img/patate-mixe.jpg)
+On les mixe ensuite avec environ 500ml d'eau déminéralisé (eau de pluie).
+
+![pulpe](img/reste.jpg)
+On verse ensuite la mixture dans une passoire afin de séparer l'amidon du reste des pommes de terre. 
+
+| Avant | Après |
+| --- | --- |
+| ![avant](img/avant-decan.jpg) | ![apres](img/apres-decan.jpg) |
+
+On attend ensuite de 10 à 15 min que la partie liquide décante. Il prend alors une teinte orangée.
+
 
 ## Reproduction du logo des FabLab: design paramétrique
 *Introdution au design paramétrique en reproduisant le logo des FabLab avec l'outil [GrassHopper](https://www.grasshopper3d.com/). Le design paramétrique permet de modifier rapidement les paramètres d'une modélisation 3D. Ici, l'objectif est d'avoir une structure qui peut changer de taille tout en gardant ses composants en place.*
