@@ -168,19 +168,47 @@ Tout comme pour le cube terrain, le bol est assez **facile à démouler** mais i
 #### Préparation de la pâte et moulage
 
 ![patate-eau](img/patate-eau.jpg)
-Tout d'abord, au lieu d'utiliser du riz bouillie, on essaye de récupérer l'amidon de pommes de terre crues. Pour cela, on commence par découper cinq pommes de terres de taille moyenne après les avoir épluchées. 
+Tout d'abord, au lieu d'utiliser du riz bouillie, on essaye de récupérer l'**amidon de pommes de terre crues**. Pour cela, on commence par découper cinq pommes de terres de taille moyenne après les avoir **épluchées**. 
 
 ![eau-minéralisée](img/patate-mixe.jpg)
-On les mixe ensuite avec environ 500ml d'eau déminéralisé (eau de pluie).
+On les mixe ensuite avec environ **500ml d'eau déminéralisée** (eau de pluie).
 
 ![pulpe](img/reste.jpg)
-On verse ensuite la mixture dans une passoire afin de séparer l'amidon du reste des pommes de terre. 
+On verse ensuite la mixture dans une **passoire** afin de **séparer l'amidon du reste des pommes de terre**. 
 
 | Avant | Après |
 | --- | --- |
 | ![avant](img/avant-decan.jpg) | ![apres](img/apres-decan.jpg) |
 
-On attend ensuite de 10 à 15 min que la partie liquide décante. Il prend alors une teinte orangée.
+On attend ensuite de 10 à 15 min que la partie liquide **décante**. Il prend alors une teinte **orangée**.
+On mixe alors la **partie supérieur** qui est séparée de la pulpe de la pomme de terre avec du **carton** et de **l'eau déminéralisée** jusqu'à former une **pâte homogène**.
+
+![pate](img/mega-eau.jpg)
+
+Puis on **essort** la pâte dans un chiffon. Cependant, on remarque qu'elle devient très **friable** et **difficile à mouler**, probablement car l'amidon a été **évacué lors de l'essorage**.
+
+![friable](img/friable.jpg)
+
+On décide alors de ne **pas trop essorer** afin de **mouler facilement le carton**. On expérimente également **deux pâtes différentes pour faire un même bol**: une pâte marron de **carton "classique"** et une pâte noir de **papier**. Il est important de noter que le papier est **plus facile à essorer** mais **produit moins de pulpe** et qu'il peut **teindre**.
+
+![bicolor](img/bicolor.jpg)
+
+#### Séchage et démoulage
+
+Afin de faciliter l'évacuation de l'eau, on change l'**orientation du moule**. On l'encadre également par **deux planches en bois** afin de ne **pas fragiliser le moule**.
+
+![eaubye](img/echappe.jpg)
+
+Tout comme pour le premier bol, celui-ci dégage une **odeur nauséabonde** et met **longtemps à sécher**... Il est en revanche intéressant **esthétiquement**: par exemple, à l'intérieur, la pâte noir a un peu teint la pâte marron.
+
+![recto](img/20210625_154731.jpg)
+![verso](img/20210625_154740.jpg)
+
+#### Suggestions pour aller plus loin
+
+Il serait intéréssant de créer un moule qui se concentre beaucoup plus sur **l'évacuation de l'eau**, par exemple avec une **presse plus grosse**.
+
+/FUTUR SCHEMA/
 
 
 ## Reproduction du logo des FabLab: design paramétrique
@@ -191,8 +219,21 @@ On attend ensuite de 10 à 15 min que la partie liquide décante. Il prend alors
 /SCHEMA POUR COMPRENDRE LE LOGO/
 On commence d'abord par **analyser** et **comprendre** cette forme. On distingue alors **trois cylindres**, **trois pavés** et **un cube**.
 
+![version 1](img/v1.png)
+![Ici pour télécharger](models/logo.gh)
 
-/FINAL/
+*Première version du logo en design paramétrique sur GrassHopper.*
+
+![version2](img/v2.png)
+![Ici pour télécharger](models/logo1.gh)
+
+*Deuxième version après une meilleure prise en main de GrassHopper.*
+
+On cherche à simplifier pour rendre plus fluide le changement de taille.
+
+## A la découverte des FabLabs
+*L'objectif est de créer une petite boîte en bois en s'inspirant des assemblages japonais. Les différentes parties de la boîtes doivent être pensées dans le but d'être par la suite découpées à la découpeuse laser.*
+
 
 
 
